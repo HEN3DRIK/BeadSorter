@@ -14,3 +14,7 @@ Original Project by Linus Barth:
 Modified to skip aligner phase by RichA777
 [Bead Sorter modified to skip aligner phase by RichA777 - Thingiverse](https://www.thingiverse.com/thing:4507571)
 # Parts List
+
+# Electronics Schema
+I know, this isn't nice looking.
+![alt text](https://github.com/HEN3DRIK/BeadSorter/blob/main/beadsorter_schema.png?raw=true)
