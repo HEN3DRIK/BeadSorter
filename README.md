@@ -6,6 +6,10 @@
 
 # BeadSorter
 Nice to have you here. In this repository I keep the files that are necessary for the BeadSorter. Also there will be documentation about the needed electronics and software. I will update this repo continuously.
+
+# Video
+[![perlerbead sorting machine](https://img.youtube.com/vi/CX-w85ZC5AQ/0.jpg)](https://www.youtube.com/watch?v=CX-w85ZC5AQ)
+
 # References
 These are Projects are necessary for this beadsorter to work.
 
