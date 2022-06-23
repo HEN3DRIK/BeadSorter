@@ -11,7 +11,7 @@ Nice to have you here. In this repository I keep the files that are necessary fo
 [![perlerbead sorting machine](https://img.youtube.com/vi/CX-w85ZC5AQ/0.jpg)](https://www.youtube.com/watch?v=CX-w85ZC5AQ)
 
 # References
-These are Projects are necessary for this beadsorter to work.
+These are Projects necessary for this beadsorter to work.
 
 Original Project by Linus Barth:
 [BeadSort: Machine for sorting perler beads by LinusB - Thingiverse](https://www.thingiverse.com/thing:2598302)
