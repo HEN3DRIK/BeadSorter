@@ -21,14 +21,14 @@ Modified to skip aligner phase by RichA777
 # Parts List
 You'll need electronic parts for this bead sorter. This is alist of what i used in this project. I belive some components can be substituted.
 
-- 1x Miniature-DC-Gear Motor 15RPM
-- 2x LM2596S DC-DC
-- 1x A4988 Stepper Driver Module
-- 1x Nema 17 Stepper Bipolar 1A 16Ncm 42x20mm 4-Wires
-- 1x L298N Motor Drive Controller Board Module
-- 1x Adafruit-Sensor TCS34725 RGB
-- 1x Arduino Nano V3.0 Atmega328 CH340
-- 1x SG90 Micro Servo Motor 9G
+- 1x Miniature-DC-Gear Motor 15RPM: https://www.amazon.de/gp/product/B08591W5N8/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1
+- 2x LM2596S DC-DC: https://www.amazon.de/gp/product/B07YWLCTLK/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1
+- 1x A4988 Stepper Driver Module: https://www.amazon.de/gp/product/B07C2V9GWC/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1
+- 1x Nema 17 Stepper Bipolar 1A 16Ncm 42x20mm 4-Wires: https://www.amazon.de/dp/B06XVM38YW/ref=pe_27091401_487024491_TE_item
+- 1x L298N Motor Drive Controller Board Module: https://www.amazon.de/gp/product/B07MY33PC9/ref=ppx_yo_dt_b_asin_title_o08_s01?ie=UTF8&psc=1
+- 1x Adafruit-Sensor TCS34725 RGB: https://www.amazon.de/gp/product/B00OKCRU5M/ref=ppx_yo_dt_b_asin_title_o09_s01?ie=UTF8&psc=1
+- 1x Arduino Nano V3.0 Atmega328 CH340: https://www.amazon.de/gp/product/B01MS7DUEM/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1
+- 1x SG90 Micro Servo Motor 9G: https://www.amazon.de/gp/product/B07CYZSVKW/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1
 - 1x 100µF Capacitor
 - 1x Resistor matching LED
 - 1x White LED
