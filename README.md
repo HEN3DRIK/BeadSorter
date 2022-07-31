@@ -69,20 +69,19 @@ Print the following parts
 ## Printing my parts
 Print:
 - 4x 1-sequentializer-ilc-corner_for_higher_motor.stl
-- 0-ring_container.stl
-- 4-Stepper_base.stl
-- 4-Stepper_shaft.stl
-- 4-Stepper_shaft_ring.stl
-- 4-Servo_base2.stl
-- 4-Stepper_shaft_ring.stl
+- ring_container.stl
+- 4_Stepper_shaft.stl
+- Stepper_shaft_ring.stl
+- Servo_base2.stl
+- Stepper_shaft_ring.stl
 - 3-analyzer-entry-tube_modified.stl
-- 3-Sequencer_tube_modified_tighter_Higher_Motor.stl
+- UM2-Sequencer_tube_modified_tighter_Higher_Motor.stl
 - 5-outputs-slide-1.stl
 - 5-outputs-slide-2.stl
 - 5-outputs-slide-3.stl
-- 5-holder_typeA.stl
-- 5-holder_typeB.stl
-- 5-Plate.stl
-- 6-Box_bottom.stl
-- 6-Box_lid.stl
-- 6-Box_top.stl
+- holder_typeA.stl
+- holder_typeB.stl
+- Plate.stl
+- Box_bottom.stl
+- Box_lid.stl
+- Box_top.stl
