@@ -1,8 +1,8 @@
- - 👋 Hi, I’m @HEN3DRIK
- - 👀 I’m interested in 3DPrinting and Electroforming/Electroplating
- - 📫 How to reach me 
-   -  Youtube https://www.youtube.com/c/v0g3l
-   - Twitter https://twitter.com/v0g3l
+- 👋 Hi, I’m @HEN3DRIK
+- 👀 I’m interested in 3DPrinting and Electroforming/Electroplating
+- 📫 How to reach me 
+  - Youtube https://youtube.com/@hen3drik
+  - Twitter https://twitter.com/v0g3l
 
 # BeadSorter
 Nice to have you here. In this repository I keep the files that are necessary for the BeadSorter. Also there will be documentation about the needed electronics and software. I will update this repo continuously.
