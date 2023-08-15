@@ -28,7 +28,7 @@ You'll need electronic parts for this bead sorter. This is alist of what i used 
 - 1x L298N Motor Drive Controller Board Module: https://www.amazon.de/gp/product/B07MY33PC9/ref=ppx_yo_dt_b_asin_title_o08_s01?ie=UTF8&psc=1
 - 1x Adafruit-Sensor TCS34725 RGB: https://www.amazon.de/gp/product/B00OKCRU5M/ref=ppx_yo_dt_b_asin_title_o09_s01?ie=UTF8&psc=1
 - 1x Arduino Nano V3.0 Atmega328 CH340: https://www.amazon.de/gp/product/B01MS7DUEM/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1
-- 1x SG90 Micro Servo Motor 9G: https://www.amazon.de/gp/product/B07CYZSVKW/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1
+- 1x SG90 Micro Servo Motor 9G: [https://www.amazon.de/gp/product/B07CYZSVKW/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1](https://www.amazon.de/owootecc-Helicopter-Airplane-Remote-Controls/dp/B07RZK4K39/ref=sr_1_7?keywords=sg90+servo&qid=1692117042&sprefix=sg90%2Caps%2C88&sr=8-7)
 - 1x 100µF Capacitor
 - 1x Resistor matching LED
 - 1x White LED
