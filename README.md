@@ -39,6 +39,7 @@ You'll need electronic parts for this bead sorter. This is alist of what i used 
 
 # Electronics Schema
 I know, this isn't nice looking.
+This whole thing is powered by a 12V power supply. I used a 9VA; That thing doesnt requiere a lot of current.
 ![alt text](https://github.com/HEN3DRIK/BeadSorter/blob/main/beadsorter_schema.png?raw=true)
 
 # Printing Guide
