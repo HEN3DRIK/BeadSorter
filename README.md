@@ -61,11 +61,11 @@ Print everything but the following Parts:
 - 5-outputs-slide-3.stl
 - rpi-holder.stl
 
-## Printing RichA777 parts
+## (Printing RichA777 parts)[https://www.thingiverse.com/thing:4507571/files]
 Print the following parts
-- 0-hopper-seq-plate-4_holes_modified
+- hopper-seq-plate-4_holes_modified
 - Sequencer_base_modified
-- 0_Hopper_Modified_Cleaned_up
+- Hopper_Modified_Cleaned_up
 
 ## Printing my parts
 Print:
